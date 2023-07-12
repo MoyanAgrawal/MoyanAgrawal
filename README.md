@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HTML , CSS , JS , ReactJs , Figma<br>👯 I’m looking to contribute in Open Source <br>🌱 I’m currently learning MERN
+🔭 A FullStack Developer and still learning...<br>👯 I’m looking to contribute in Open Source <br>🌱 I’m currently learning MERN
 
 
 ## 🌐 Socials:
