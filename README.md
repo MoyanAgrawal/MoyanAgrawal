@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A FullStack Developer and still learning...<br>👯 I’m looking to contribute in Open Source
+🔭 A FullStack Developer, MERN Developer, Java Developer and still learning...<br>👯 I’m looking to contribute in Open Source
 
 
 ## 🌐 Socials:
